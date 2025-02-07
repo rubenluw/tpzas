@@ -1,6 +1,6 @@
 - ### Установка windows
   - ![image_1](images/1.png)
-  - ### Установка metasploit2
+- ### Установка metasploit2
   - ![image_2](images/2.png)
 - ### Установка packer
   - ![image_3](images/3.png)
@@ -9,7 +9,7 @@
 - ### Установка metasploit3
   - Неудалось доустановить metasploit3 при сборке с помощью скрипта с github. Произошла ошибка при установке плагинов vagrant
     - ![image_5](images/5.png)
-- Установке metasploit3 с помощью единого файла с расширением .ova тоже не удалась. Произошла ошибка при загрузке системы в virtualbox
+- Установка metasploit3 с помощью единого файла с расширением .ova тоже не удалась. Произошла ошибка при загрузке системы в virtualbox
     - ![image_6](images/6.png)
 - ### Установка badstore
   - Успешная установка badstore в virtualbox
