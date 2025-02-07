@@ -1,2 +1,32 @@
 - ### Установка windows
   - ![image_1](images/1.png)
+  - ### Установка metasploit2
+  - ![image_2](images/2.png)
+- ### Установка packer
+  - ![image_3](images/3.png)
+- ### Установка vagrant
+  - ![image_4](images/4.png)
+- ### Установка metasploit3
+  - Неудалось доустановить metasploit3 при сборке с помощью скрипта с github. Произошла ошибка при установке плагинов vagrant
+    - ![image_5](images/5.png)
+- Установке metasploit3 с помощью единого файла с расширением .ova тоже не удалась. Произошла ошибка при загрузке системы в virtualbox
+    - ![image_6](images/6.png)
+- ### Установка badstore
+  - Успешная установка badstore в virtualbox
+  - Просмотр сетевых настроек для подключения к веб-серверу
+    - ![image_7](images/7.png)
+  - Подключение к серверу по ip адресу c хоста
+    - ![image_8](images/8.png)
+- ### Установка kali linux
+  - Успешная установка kali linux в virtualbox
+  - Запуск веб-сервера apache и просмотр стартовой страницы через браузер
+    - ![image_9](images/9.png)
+  - Подключение к базе данных mysql
+    - ![image_10](images/10.png)
+  - Подключение к kali linux по ssh
+    - ![image_11](images/11.png)
+- ### Использование инструментов kali linux
+  - Использование инструмента SET
+    - ![image_12](images/12.png)
+  - Использование инструмента OpenVAS
+    - ![image_13](images/13.png)
