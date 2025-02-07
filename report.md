@@ -1,2 +1,2 @@
-### Установка windows
-- ![image_1](images/1.png)
+- ### Установка windows
+  - ![image_1](images/1.png)
